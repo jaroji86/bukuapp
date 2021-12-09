@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bukuapp</string>
+    <string name="book_title">Judul Buku</string>
+    <string name="detail">Detail Buku</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="sinopsis">Sinopsis:</string>
+    <string name="about_name">Jaroji</string>
+    <string name="about_email">jaroji@polbeng.ac.id</string>
+    <string name="menu_about">About</string>
+</resources>
